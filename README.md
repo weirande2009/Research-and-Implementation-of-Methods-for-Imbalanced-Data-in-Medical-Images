@@ -1,6 +1,8 @@
 # Research-and-Implementation-of-Methods-for-Imbalanced-Data-in-Medical-Images
 This is my graduation thesis of undergraduate and here is the abstract.
 
+# Abstract
+
 Semantic segmentation is one of the important tasks of medical image processing. It can 
 automatically segment the target objects of medical image, so as to speed up the reading and analysis 
 speed of doctors and reduce the burden of doctors. In the semantic segmentation of medical images, the 
